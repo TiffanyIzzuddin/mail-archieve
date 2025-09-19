@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335008170716",
+    "project_id": "mail-archieve-1b4e6",
+    "storage_bucket": "mail-archieve-1b4e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335008170716:android:d1e0fefc16123a6fba2a19",
+        "android_client_info": {
+          "package_name": "com.example.mail_archieve_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNXeSo3ud5yXdChz0-spmvF2tJyHsBr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
